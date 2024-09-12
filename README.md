@@ -8,11 +8,13 @@ This project predicts Blood Brain Barrier (BBB) permeability of drug compounds u
 
 # Installation
 
+Clone the repository:
+
 git clone https://github.com/MontzCode/BBB-Permeability-Prediction-ML.git
 
-Programming language used: Python
+- Programming language used: Python
 
-main libraries: rdkit-pypi, scikit-learn and imbalanced-learn
+- main libraries: rdkit-pypi, scikit-learn and imbalanced-learn
 
 # Contributing
 
